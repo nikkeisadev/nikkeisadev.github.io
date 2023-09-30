@@ -11,3 +11,4 @@ My Contacts: Discord🔮: nikkeisadev - Email📧: notnikkecrd@gmail.com
 You can DM me anytime. 📮
 ### Contributions:
 I **don't** accept Pull Requests from others, only by team mates. 📌
+Every pull req. will be denied. 
