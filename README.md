@@ -1,5 +1,5 @@
 # nikkeisadev
-![Alt Nikke himself XD]([image link](https://i.ibb.co/j35RqKN/nikkeisadev.png))
+![Alt Nikke himself XD]([https://i.ibb.co/j35RqKN/nikkeisadev.png])
 Hi! I'm Nikke! 
 I'm usually doin' Game Development, and/or Desktop Application development! 🍜
 ### About Me:
