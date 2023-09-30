@@ -1,4 +1,6 @@
-# Hi! I'm Nikke, a Software Engineer!
+# nikkeisadev
+![Alt Nikke himself XD]([image link](https://i.ibb.co/j35RqKN/nikkeisadev.png))
+Hi! I'm Nikke! 
 I'm usually doin' Game Development, and/or Desktop Application development! 🍜
 ### About Me:
 - I'm a 16 years old student in Debrecen (Hungary). 📚
