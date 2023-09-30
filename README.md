@@ -8,3 +8,6 @@ I'm usually doin' Game Development, and/or Desktop Application development! 🍜
 > Supported langs.: Python, C#, Ruby, Dart. 💎
 ### Contacts:
 My Contacts: Discord🔮: nikkeisadev - Email📧: notnikkecrd@gmail.com
+You can DM me anytime. 📮
+### Contributions:
+I **don't** accept Pull Requests from others, only by team mates. 📌
