@@ -50,12 +50,14 @@ h6 {
 .navbar .nav-item a {
 	color: white;
 	font-weight: 600;
-	font-size: 13px;
+	font-size: 17px;
 }
 .navbar .nav-item a:hover {
-	color: rgb(176, 119, 252);
+	color: white;
+	font-size: 20px;
 }
 .navbar .nav-link {
+	color: white;
 	position: relative;
 	padding: 0;
 }
@@ -117,6 +119,7 @@ h6 {
 .navbar-fixed-top {
     top: 0;
     border-width: 0 0 1px;
+	border-radius: 1em;
 }
 .banner a.weblink {
 	color:#ffffff;

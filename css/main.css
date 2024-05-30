@@ -1,11 +1,27 @@
 .image-container {
-    width: 100%;
-    max-width: 20em;
+    width: 130%;
+    max-width: 500;
     margin-left: auto;
     margin-right: auto;
 }
   
 .custom-image-size {
-    width: 100%;
-    max-width: 20em;
+    width: 200%;
+    max-width: 500em;
+}
+
+.text-responsive {
+    font-size: clamp(1.5rem, 3vw, 3rem);
+}
+  
+  .top-banner-text {
+    font-size: clamp(2rem, 4vw, 4rem);
+}
+  
+  .banner-text h3 {
+    font-size: clamp(1.5rem, 3vw, 2.5rem);
+}
+  
+  .banner-text h5 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
 }
